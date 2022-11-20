@@ -1,0 +1,126 @@
+/* @import "./reset.css"; */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+
+.text-center {
+   text-align: center;
+}
+.bg-image-1 {
+   background-image: url('../img/hero_img.jpg');
+   background-size: cover;
+   background-position: right;
+}
+.col-height {
+   height: 800px;
+   background-color: rgba(153, 107, 96, 1);
+
+}
+
+.shopAll {
+   color: black;
+}
+.text-h1{
+   font-weight: 400;
+   font-size: 73px;
+   line-height: 96px;
+   margin-top: 200px;
+   margin-bottom: 30px;
+}
+.main_text {
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 32px;
+   margin-bottom: 46px;
+}
+.shopAll {
+   margin-bottom: 100px;
+}
+.nav_top {
+   color: white;
+}
+
+.col-4_text{
+   margin: 36px;
+}
+.main_h2{
+   font-weight: 400;
+   font-size: 64px;
+   line-height: 80px;
+   font-family: 'Liberation Serif';
+   max-width: 673px;
+   max-height: 160px;
+   margin: 0 auto;
+}
+.main_p {
+   font-size: 12px;
+   line-height: 18px;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   max-width: 150px;
+   max-height: 18px;
+   margin: 0 auto;
+}
+
+.sample_kit,
+.citrus{
+   font-family: 'Liberation Serif';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 44px;
+}
+.sample_kit_text,
+.grapefruit_text,
+.citrus_text {
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 28px;
+   margin-bottom: 45px;
+}
+.btm {
+   padding: 20px 48px;
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 14px;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   color: #FFFFFF;
+   background-color: black;
+}
+.grapefruit {
+   font-family: 'Liberation Serif';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 31px;
+   line-height: 44px;
+}
+.list-footer li{
+   list-style: none;
+
+}
+.list-footer a {
+   text-decoration: none;
+   color: rgba(255, 255, 255, 0.6);
+}
+.list-footer ul {
+   padding: 0;
+}
+.input {
+   height: 53px;
+   background-color: transparent; 
+   border: 0;
+}
+.submit {
+   width: 440px;
+}
+.submit-btm {
+   height: 53px;
+   border: 0;
+   color: #FFFFFF;
+   background-color: transparent;
+}
+.input:focus,
+.input:hover {
+   outline: none;
+   border: 0;
+}
